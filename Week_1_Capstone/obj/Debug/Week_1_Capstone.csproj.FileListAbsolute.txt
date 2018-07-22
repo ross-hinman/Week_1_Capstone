@@ -1,0 +1,7 @@
+C:\Users\Ross Hinman\source\repos\Week_1_Capstone\Week_1_Capstone\bin\Debug\Week_1_Capstone.exe.config
+C:\Users\Ross Hinman\source\repos\Week_1_Capstone\Week_1_Capstone\bin\Debug\Week_1_Capstone.exe
+C:\Users\Ross Hinman\source\repos\Week_1_Capstone\Week_1_Capstone\bin\Debug\Week_1_Capstone.pdb
+C:\Users\Ross Hinman\source\repos\Week_1_Capstone\Week_1_Capstone\obj\Debug\Week_1_Capstone.csprojAssemblyReference.cache
+C:\Users\Ross Hinman\source\repos\Week_1_Capstone\Week_1_Capstone\obj\Debug\Week_1_Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Ross Hinman\source\repos\Week_1_Capstone\Week_1_Capstone\obj\Debug\Week_1_Capstone.exe
+C:\Users\Ross Hinman\source\repos\Week_1_Capstone\Week_1_Capstone\obj\Debug\Week_1_Capstone.pdb
